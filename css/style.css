@@ -114,7 +114,7 @@ header {
     justify-content: space-between;
     align-items: center;
     height: 70px;
-    padding: 10px 100px
+    padding: 0 10px
 }
 
 header > a {
@@ -497,11 +497,6 @@ footer p span {
 }
 
 @media(min-width:991px) {
-
-
-    header {
-        padding: 10px 200px
-    }
 
     section {
         padding: 100px 120px
